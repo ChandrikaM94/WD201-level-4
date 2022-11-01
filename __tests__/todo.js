@@ -31,7 +31,7 @@ describe("TodoList Test Suite", () => {
         title: "Test todo",
         completed: false,
         dueDate: yesterday,
-        console.log(dueDate),
+        //console.log(dueDate),
       }
     );
     const todoItemCount = all.length;
